@@ -3,6 +3,8 @@
 
 int main(void)
 {
+	int a;
+	cin >> a;
 	std::cout << "hello world!" << std::endl;
 
 	system("pause");
