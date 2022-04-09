@@ -4,8 +4,8 @@
 int main(void)
 {
 	int a;
-	cin >> a;
-	std::cout << "hello world!" << std::endl;
+	std::cin >> a;
+	std::cout << "hi!" << std::endl;
 
 	system("pause");
 	return 0;
